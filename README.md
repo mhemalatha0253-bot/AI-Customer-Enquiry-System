@@ -45,6 +45,8 @@ Reply     Changes
  ↓
 Update Status
 ```
+<img width="681" height="306" alt="image" src="https://github.com/user-attachments/assets/0fa50336-8cc7-45a5-b548-f1849529ea8a" />
+
 
 ## Features
 
@@ -73,6 +75,8 @@ Sends approved responses to customers.
 - Sentiment Analysis
 - CRM Integration
 - Analytics Dashboard
+
+
 
 ## Author
 
